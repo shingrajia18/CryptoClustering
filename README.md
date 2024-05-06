@@ -17,3 +17,13 @@ The project structure is organized as follows:
 - pandas
 - scikit-learn
 - matplotlib
+
+## Instructions
+The notebook contains detailed explanations and code for each step of the process, including data loading, preprocessing, model training, and evaluation.
+
+## Results
+- Clustering of cryptocurrencies based on price fluctuations using K-means clustering.
+- Visualization of clusters using scatter plots.
+- Reduction of feature dimensions using PCA.
+- Determination of feature weights on principal components.
+- Optimization of clusters using PCA data.
